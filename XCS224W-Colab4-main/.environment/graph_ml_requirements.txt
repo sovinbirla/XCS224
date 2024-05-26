@@ -1,4 +1,4 @@
-python-louvain==0.16
+python-louvain
 torch-scatter
 torch-sparse
 torch-geometric
